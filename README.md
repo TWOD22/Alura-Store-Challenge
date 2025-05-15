@@ -1,6 +1,6 @@
 # PROYECTO Alura Store Latam 
 
-### !Sean Bienvenidos al Proyecto Alura Store Latam!🪄🎲
+### !Sean Bienvenidos al Proyecto Alura Store Latam!
 
 ## INDICE
 
@@ -42,7 +42,7 @@ matplotlib para la visualización de datos
 
 ## ACCESO AL PROYECTO 🔗
 
-Podras acceder al proyecto mediante el siguiente enlace: [https://twod22.github.io/amigo-secreto/]
+Podras acceder al proyecto mediante el siguiente enlace: [https://github.com/TWOD22/Alura-Store-Challenge.git]
 
 ## AUTOR 🧑‍💻 
 
