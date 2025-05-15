@@ -17,10 +17,11 @@
 Se analizó el desempeño de las cuatro tiendas de Alura Store considerando ingresos, ventas por categoría, calificaciones de clientes, producto mas/menos popular y costos de envío para identificar la menos eficiente y ayudar al cliente a identificar que tienda debe vender.
 
 Ejemplos de gráficos e insights obtenidos.
+
 ![Grafico 1](https://github.com/TWOD22/Alura-Store-Challenge/blob/main/grafico1.png?raw=true)
+
 ![Grafico 1](https://github.com/TWOD22/Alura-Store-Challenge/blob/main/grafico2.png?raw=true)
 
-Instrucciones para ejecutar el notebook.
 
 ## FUNCIONALIDADES 📃
 
